@@ -1,0 +1,274 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-x:hidden;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    color: rgb(18, 19, 70);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sec-heading{
+    margin-top:100px;
+    background-color:rgb(165, 216, 233) ;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-warning{
+    margin-top: 10px;
+}
+.bottomheader{
+    background-color: #7b7e80;
+}
+.edit{
+    margin-top: 100px;
+}
+.spc{
+    margin-left: 45px;
+    font-size: 20px;
+}
+.spc1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.container1{
+    border:3px solid red;
+    padding: 10px;
+    background-color: blue;
+}
+.casrousel-img{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.footer-img{
+    width: 300px;
+    height: 500px;
+    border-radius: 5px;
+}
+.casrousel-background{
+    background-color:rgb(165, 216, 233);
+}
+.about-us{
+    font-weight: bold; 
+    color: black;
+    font-size: 40px;
+    margin-top: 15px;
+}
+.about-us-1{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main-form{
+    border-color: rgb(6, 32, 80);
+    border-style: solid;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.main-form input{
+    background-color: white;
+    border-color: black;
+    font-size: 20px;
+}
+.main-form textarea{
+    background-color: white;
+    border-color: rgb(0, 0, 0); 
+    font-size: 20px;
+}
+.smallheader{
+    color: rgb(82, 77, 77);
+    margin-top: 15px;
+    font-size: 25px;
+}
+.cmnheader{
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-nav>li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.middle-section .btn-style{
+    color: white;
+    background-color: #004d80;
+    border-radius: 5px;
+    width: 150px;
+    padding: 5px;
+}
+.top-section .btn-style{
+    color: white;
+    background-color: #004d80;
+    border-radius: 5px;
+    width: 150px;
+    padding: 5px;
+}
+.dis-head{
+    background-color: rgb(165, 216, 233);
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.rows{
+    border: 3px solid green;
+    
+}
+.column{
+    border: 3px solid black;
+    
+}
+#topheader{
+    border-bottom: 1px solid silver;
+    text-align: right;
+}
+#topheader a{
+    color: rgb(12, 12, 46);
+}
+.container-fluid{
+    padding: 0;
+    
+}
+ nav ul li a{
+    color: black;
+
+}
+.fullfooter{
+    background-color: #243c4f;
+    width: 100%;
+}
+.fullfooter-donation{
+    background-color: #7b7e80;
+    width: 100%;
+}
+.fullfooter p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fullfooter a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fullfooter-donation p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fullfooter-donation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+    text-decoration: none;
+}
+.top-footer a:hover{
+    text-decoration: none;
+    text-decoration: underline;
+    color: black;
+}
+.top-footer h3{
+    color: white;
+}
+.buttom-footer{
+    background-color: #19232e;
+}
+.buttom-footer-donation{
+    background-color: #323234;
+    color: white;
+}
+.buttom-footer p{
+    color: white;
+}
+.top-hero-section{
+    background-color: rgb(165, 216, 233);
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+.top-hero-section a:hover{
+    text-decoration: underline;
+}
+.top-hero-section .btn-style{
+    background-color: #004d80;
+    color: #fff;
+}
+.buttom-hero-section{
+    color: black;
+}
+.buttom-hero-section p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top-hero-section-donation{
+   background-color: #7b7e80;
+   color: white;
+   padding-bottom: 180px;
+} 
+.img{
+    width: 380px;
+}
+.img-size{
+    width: 150px;
+}
+.section{
+    background-color: #004d80;
+    color: white;
+}
+.input-section{
+    background-color: #004d80;
+    color: white;
+}
+.input-section .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.input-section .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color: #243c4f;
+    color: white;
+    outline: none;
+}
+.middle-section{
+    background-color:rgb(165, 216, 233) ;
+}
+.buttom-hero-section .btn{
+    min-height: 25px;
+    border-radius: 10px;
+    background-color: #004d80;
+    color: white;
+    outline: none;
+}
+.top-section .btn{
+    min-height: 25px;
+    border-radius: 5px;
+    background-color: #004d80;
+    color: white;
+    outline: none;
+}
+.feedb{
+color: black;
+font-size: 40px;
+}
+.line{
+    background-color: #004d80;
+    height: 1px;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
